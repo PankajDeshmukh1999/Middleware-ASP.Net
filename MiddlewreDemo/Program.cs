@@ -28,8 +28,10 @@ app.Run(async (HttpContext context) =>
 });
 
 //Middleware 3 - using Custom middleware class
-app.UseMiddleware<MyMiddleware>();
+//app.UseMiddleware<MyMiddleware>();
+app.MyMiddleware();  //using extesion method
 
+app.UseMyMiddleware2();
 
 //Middleware 4
 // As we have Already terminated middleare chaining using method Run() this Middleware 3 will not execute

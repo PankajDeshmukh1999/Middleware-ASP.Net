@@ -10,4 +10,12 @@ namespace MiddlewreDemo.CustomMiddleware
            await context.Response.WriteAsync("Custom middleware Finished.....!");
         }
     }
+
+    public static class CustomMiddlewareExtension
+    {
+        public static IApplicationBuilder MyMiddleware(this IApplicationBuilder app)
+        {
+            return app.UseMiddleware<MyMiddleware>();
+        }
+    }
 }
