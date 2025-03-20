@@ -21,9 +21,9 @@ C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\static
 C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiddlewreDemo.props
 C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiddlewreDemo.props
 C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\MiddlewreDemo.dll
 C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\refint\MiddlewreDemo.dll
 C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\MiddlewreDemo.pdb
 C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\MiddlewreDemo.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\ref\MiddlewreDemo.dll
+C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\MiddlewreDemo.sourcelink.json
