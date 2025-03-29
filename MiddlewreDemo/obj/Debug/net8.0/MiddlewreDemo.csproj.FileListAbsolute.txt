@@ -27,3 +27,4 @@ C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\Middle
 C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\MiddlewreDemo.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\ref\MiddlewreDemo.dll
 C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\MiddlewreDemo.sourcelink.json
+C:\Users\LENOVO\source\repos\MiddlewreDemo\MiddlewreDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

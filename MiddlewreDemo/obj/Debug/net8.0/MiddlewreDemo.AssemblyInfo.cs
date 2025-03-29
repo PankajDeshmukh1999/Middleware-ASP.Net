@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiddlewreDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98f3022961f764dbbd2dce035cd2471807393845")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2b4ee0990aec04ee937e1dcf8117d4743709b04")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiddlewreDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiddlewreDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

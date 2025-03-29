@@ -1,9 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewreDemo", "MiddlewreDemo\MiddlewreDemo.csproj", "{30D8496F-650E-491B-9C20-11743126DA98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthDemo1", "AuthDemo1\AuthDemo1.csproj", "{44075982-A932-4F33-89A6-D200BEDAB458}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +22,10 @@ Global
 		{30D8496F-650E-491B-9C20-11743126DA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30D8496F-650E-491B-9C20-11743126DA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30D8496F-650E-491B-9C20-11743126DA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44075982-A932-4F33-89A6-D200BEDAB458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44075982-A932-4F33-89A6-D200BEDAB458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44075982-A932-4F33-89A6-D200BEDAB458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44075982-A932-4F33-89A6-D200BEDAB458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
