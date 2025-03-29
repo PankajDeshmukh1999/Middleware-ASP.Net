@@ -1,8 +1,0 @@
-C:\Users\LENOVO\source\repos\MiddlewreDemo\AuthenticationDemo\obj\Debug\net8.0\AuthenticationDemo.csproj.AssemblyReference.cache
-C:\Users\LENOVO\source\repos\MiddlewreDemo\AuthenticationDemo\obj\Debug\net8.0\AuthenticationDemo.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\LENOVO\source\repos\MiddlewreDemo\AuthenticationDemo\obj\Debug\net8.0\AuthenticationDemo.AssemblyInfoInputs.cache
-C:\Users\LENOVO\source\repos\MiddlewreDemo\AuthenticationDemo\obj\Debug\net8.0\AuthenticationDemo.AssemblyInfo.cs
-C:\Users\LENOVO\source\repos\MiddlewreDemo\AuthenticationDemo\obj\Debug\net8.0\AuthenticationDemo.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\source\repos\MiddlewreDemo\AuthenticationDemo\obj\Debug\net8.0\AuthenticationDemo.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\LENOVO\source\repos\MiddlewreDemo\AuthenticationDemo\obj\Debug\net8.0\AuthenticationDemo.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\LENOVO\source\repos\MiddlewreDemo\AuthenticationDemo\obj\Debug\net8.0\AuthenticationDemo.sourcelink.json
